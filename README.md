@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakubgwozdz
 - 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning node.js, python, and thousand assorted technologies all at the same time, until I find an interesting one.
+- 🌱 I’m currently learning thousand assorted technologies all at the same time, until I find an interesting one.
 
 This is my very random subset of projects I decided to share on GH
 
